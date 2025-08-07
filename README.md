@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="color: #D2B48C; margin: 0;">𝔸𝕤𝕙𝕚𝕜</h1>
+  <h1 style="color: #D2B48C; margin: 0;">Ashik</h1>
 </div>
 <br>
 <div align="center" style="margin: 1rem 0;">

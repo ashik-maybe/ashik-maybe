@@ -16,10 +16,4 @@
     height="190" 
     style="border-radius: 8px;"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-maybe&theme=transparent&border_color=A52A2A&bg_color=0D1117&text_color=D2B48C&layout=compact&height=190&custom_title=Languages" 
-    width="48%" 
-    height="190" 
-    style="border-radius: 8px;"
-  />
 </div>

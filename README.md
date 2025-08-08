@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center" style="margin: 1rem 0;">
-  <img src="https://skillicons.dev/icons?i=js,dart,java,react,flutter,tailwind,vscode,git,linux,fedora" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode,js,dart,java,react,flutter,spring&theme=dark&perline=3"/>
 </div>
 
 <!---### 📊 Stats--->

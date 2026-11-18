@@ -1,0 +1,8 @@
+{
+  "config": {
+    // GitHub tables cannot be wrapped at 80 columns.
+    "MD013": false,
+    // The footer meme is an <img> tag.
+    "MD033": false
+  }
+}

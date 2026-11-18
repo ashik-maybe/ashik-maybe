@@ -8,8 +8,6 @@
 
 CSE student in Dhaka, Bangladesh. I make small web, mobile, and Linux tools, mostly because I wanted them.
 
-`Python` · `TypeScript` · `Shell`
-
 Website: [ashik.asf.run](https://ashik.asf.run)
 
 ## Some things I've made
@@ -17,13 +15,14 @@ Website: [ashik.asf.run](https://ashik.asf.run)
 | Project | What it is |
 | --- | --- |
 | **[Okkhor](https://ashik-maybe.github.io/okkhor/)** | Bangla typing in the browser. Type roman letters, pick from ranked Bangla suggestions, drafts stay in your browser. Installable, works offline. |
-| **[Ana Gonda Calculator](https://github.com/ashik-maybe/anagonda-calculator-app)** | Land-share calculator for Bangladeshi deeds. Exact fractions instead of rounded decimals — 174 tests on that engine. Runs fully offline. |
 | **[React TV Remote](https://github.com/ashik-maybe/tv-remote-web)** | Controls my Android TV over the local network using Google's own remote protocol. No apps on the TV, no cloud. |
+| **[Frog Contribution Graph](https://github.com/ashik-maybe/frog-contribution-graph)** | GitHub Action that draws your contribution graph as a Bangladeshi pond, with a frog hopping your commits. On the Marketplace. |
+| **[Ana Gonda Calculator](https://github.com/ashik-maybe/anagonda-calculator-app)** | Land-share calculator for Bangladeshi deeds. Exact fractions instead of rounded decimals — 174 tests on that engine. Runs fully offline. |
 | **[BDIX Live Server Tests](https://github.com/ashik-maybe/bdix-ftp-server-tester)** | Async Python CLI that checks 886 BDIX FTP and media servers, because the community list is mostly stale. |
 
-Also around: [Fedora post-install scripts](https://github.com/ashik-maybe/fedora-postsetup) with `--dry-run` everywhere, a few [classless CSS themes](https://github.com/ashik-maybe/bauhaus-classless-css), and a pile of single-purpose pages.
+Also around: [Fedora post-install scripts](https://github.com/ashik-maybe/fedora-postsetup) with `--dry-run` everywhere, six [classless CSS frameworks](https://github.com/ashik-maybe/material-you-3-css) (Material You, Bauhaus, Metro, Apple, Neobrutalist, Minimalist Mono), and a pile of single-purpose pages.
 
-**Open to internships and junior roles** — on-site in Dhaka, anywhere in Bangladesh, or remote (UTC+6).
+**Open to internships and junior roles** — on-site in Dhaka, anywhere in Bangladesh, or remote.
 
 ---
 
